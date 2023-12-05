@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ```
 streamlit run dashboard.py
 ```
-##Screenshots
+## Screenshots
 ![image](https://github.com/YosafatGA/Data-visualization-project/assets/94616970/4e0ee11e-d4dc-440c-8cdd-25c13e52f102)
 ![image](https://github.com/YosafatGA/Data-visualization-project/assets/94616970/822264ed-2697-4bb0-bb8c-f97afaa1fe52)
 ![image](https://github.com/YosafatGA/Data-visualization-project/assets/94616970/2b6572bd-052d-4128-b908-c7367cfba40e)
