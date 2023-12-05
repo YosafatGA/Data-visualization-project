@@ -3,7 +3,7 @@ My data visualization project as an assignment and practice for my Data Visualiz
 
 ## Notebook
 1. Download all the files
-2. You can run it locally or using Google Collab. For Google Collab,  you need to upload the dataset and assets folder first.
+2. You can run it locally or using Google Collab. For Google Collab,  you need to upload the dataset first.
 
 ## Dashboard
 1. To run the dashboard, make sure to download all the files and run the notebook first.
